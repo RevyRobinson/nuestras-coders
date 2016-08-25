@@ -1,0 +1,40 @@
+#container {
+	width: 60%;
+}
+.box{
+	margin: 5px;
+	width: 211px;
+	height: 211px;	
+	display: inline-block;
+	position: relative;
+}
+.profilename {
+	padding: 2px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	font-size: 12px;
+	text-transform: uppercase;
+	background-color: #F5DA81;
+	border: 1px solid white;
+}
+.profile1 {
+	background-image: url("../img/profile-1.png");
+}
+.profile2 {
+	background-image: url(../img/profile-2.png);
+}
+.profile3 {
+	background-image: url(../img/profile-3.png);
+}
+.profile4 {
+	background-image: url(../img/profile-4.png);
+}
+.profile5 {
+	background-image: url(../img/profile-5.png);
+}
+.profile6 {
+	background-image: url(../img/profile-6.png);
+}
